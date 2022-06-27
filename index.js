@@ -580,6 +580,9 @@ var option5 = {
     },
     subtitle: {
         text: '15046',
+        style: {
+            color: '#0000FF'
+        }
     },
     xAxis: {
         categories: countError_typeObject.categories,
